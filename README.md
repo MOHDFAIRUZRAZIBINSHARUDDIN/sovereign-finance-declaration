@@ -1,4 +1,3 @@
-
 # SOVEREIGN FINANCE OF THE MALAYSIAN INDIVIDUAL
 ## Declaration of Truthful Holdings & Transparent Record
 
@@ -15,16 +14,17 @@
 |------|--------|
 | **Name** | Mohd Fairuz Razi bin Sharuddin |
 | **Date** | 31 October 2026 |
-| **Blockchain Address** | `0x71C7656EC7ab88b098defB751B7401B5f6d8976F` |
+| **Primary Address (Signed)** | `0x1Aba17f4450026FCEa9A96ABA36d7dA8C5Bc0b7d` |
+| **Associated Address (Etherscan Labeled)** | `0x71C7656EC7ab88b098defB751B7401B5f6d8976F` |
 | **Network** | Ethereum — Verified via Etherscan.io |
 
 ---
 
 ### 📖 THIS DECLARATION STATES THAT:
 
-**1.** I acknowledge that the blockchain address noted above is under my control and lawful ownership.
+**1.** I acknowledge that the blockchain addresses noted above are under my control and lawful ownership.
 
-**2.** I do not conceal any holdings, transactions, or values recorded at this address. All records exist on the public blockchain and may be verified by anyone at any time.
+**2.** I do not conceal any holdings, transactions, or values recorded at these addresses. All records exist on the public blockchain and may be verified by anyone at any time.
 
 **3.** I maintain complete records downloaded directly from Etherscan.io — an independent, immutable, public source of truth that cannot be altered by me or anyone else.
 
@@ -45,8 +45,11 @@
 > ***"The blockchain speaks the truth that no one can erase. It stands independently — without permission, without favour, without bias."***  
 > — Satoshi Nakamoto
 
-**Digitally attested:** Blockchain transaction hash & timestamp recorded in evidence report.
-
 ---
 
-*"Transparency is not a request — it is a stand."*
+### 🔐 CRYPTOGRAPHIC PROOF OF OWNERSHIP
+
+**Message signed:**
+> I, Mohd Fairuz Razi bin Sharuddin, declare that I am the lawful owner and controller of the Ethereum address 0x1Aba17f4450026FCEa9A96ABA36d7dA8C5Bc0b7d. I also declare that the address 0x71C7656EC7ab88b098defB751B7401B5f6d8976F, labeled with my name on Etherscan, is associated with my holdings. This declaration is made truthfully and transparently for sovereign finance and fiscal responsibility. Date: 31 October 2026.
+
+**Signature:**
